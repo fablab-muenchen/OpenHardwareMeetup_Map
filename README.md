@@ -1,6 +1,12 @@
-# WorkAdventure Map Starter Kit
+# FabLab Munich Map for Open Hardware Meetup
 
-This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
+This is a map for Open Hardware Meetup at Munich FabLab
 
-To understand how to use this starter kit, follow the tutorial at [https://workadventu.re/map-building](https://workadventu.re/map-building).
+# Credits
+
+- Tileset rc3-mullana-floor-wall.png, [CC0 License](https://creativecommons.org/publicdomain/zero/1.0/) by [Mullana](https://mullana.de/mullana/)
+- Tileset rc3-mullana-functionary.png, [CC0 License](https://creativecommons.org/publicdomain/zero/1.0/) by [Mullana](https://mullana.de/mullana/)
+- Tileset mapUtilities.png, [CC0 License](https://creativecommons.org/publicdomain/zero/1.0/) by [Mullana](https://mullana.de/mullana/)
+- Tileset rc3-mullana-overlay.png, [CC0 License](https://creativecommons.org/publicdomain/zero/1.0/) by [Mullana](https://mullana.de/mullana/)
+- Tileset garden.png, [CC0 License](https://creativecommons.org/publicdomain/zero/1.0/) by [Mullana](https://mullana.de/mullana/)
 
